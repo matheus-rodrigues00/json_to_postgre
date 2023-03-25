@@ -1,0 +1,15 @@
+[{
+    "title": "Meditation for Relaxation",
+    "description": "This guided meditation will help you relax and release tension in your body and mind.",
+    "image_url": "https://example.com/images/meditation.jpg",
+    "is_free": true,
+    "audio_file_duration": 1800,
+    "allow_background_music": true,
+    "published_at": "2022-03-25T09:00:00Z",
+    "audio_file_url": "https://example.com/meditations/relaxation.mp3",
+    "tags": [
+        "Relaxation",
+        "Stress Relief",
+        "Guided Meditation"
+    ]
+}]
